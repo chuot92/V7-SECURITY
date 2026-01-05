@@ -5,8 +5,8 @@
   ],
   "allowed_ids": [
     "AC4C17CB8616",
-    "HWID_MAY_PHU"
+    "HWID_MAY_CHU"
   ],
-  "app_version": "7.0.0",
+  "app_version": "7.2.9",
   "status": "active"
 }
