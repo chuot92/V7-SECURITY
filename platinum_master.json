@@ -1,0 +1,12 @@
+{
+  "allowed_ips": [
+    "183.80.150.93",
+    "1.2.3.4"
+  ],
+  "allowed_ids": [
+    "AC4C17CB8616",
+    "HWID_MAY_PHU"
+  ],
+  "app_version": "7.0.0",
+  "status": "active"
+}
